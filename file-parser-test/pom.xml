@@ -45,8 +45,8 @@
 				<version>6.0.01</version>
 				<dependencies>
 					<dependency>
-						<groupId>org.jsystemtest.so</groupId>
-						<artifactId>wget-tests</artifactId>
+						<groupId>org.jsystemtest.systemobjects</groupId>
+						<artifactId>file-parser-tests</artifactId>
 						<version>[0.0,]</version>
 						<scope>runtime</scope>
 					</dependency>
